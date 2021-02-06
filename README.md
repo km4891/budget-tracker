@@ -14,6 +14,7 @@
 
   ## Deployed to Heroku
 
+  https://stormy-garden-72466.herokuapp.com  
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -26,9 +27,8 @@
 
   npm i will install the following
 
-  ## Usage
+  ## Screenshot
 
-  
 
   ## License
 
