@@ -1,6 +1,6 @@
 {
     "name": "Budget Tracker",
-    "short_name": "Budgeter",
+    "short_name": "Budget",
     "description": "An app that allows you to track your budget.",
     "background_color": "#fe0000",
     "theme_color": "#ffffff",
